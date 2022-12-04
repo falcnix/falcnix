@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-I am  a curiosity-driven cybersecurity engineer. I like breaking IoT devices and hacking cloud infrastructures. Learning and understanding how we humans function(neuroscience) so I could hack my behavior to optimize my life. I would love to collaborate on any IoT and cloud related projects. Please feel free to reach out with any queries and questions. 
+I am  a curiosity-driven cybersecurity engineer. I like breaking IoT devices and hacking cloud infrastructures. Learning and understanding how we humans function(neuroscience) so I could hack my behavior to optimize my life. I would love to collaborate on any IoT and cloud related projects. Please feel free to reach out in any point of time. 
 
 
 ## 🌐 Socials:
