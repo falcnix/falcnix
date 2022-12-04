@@ -26,7 +26,7 @@ I am  a curiosity-driven cybersecurity engineer. I like breaking IoT devices and
 |1|[null community](null.community) - Bangalore | [Training/Talks](https://null.community/profile/31184-mohammed-saqeeb) | 2022
 ---
 
-#### Projects 
+## Projects 
 |#| Project Name | Release Year | Use of it |
 | ---------|---------|------|-----|
 |1| [Vulnerable Cognito Applicattion](https://github.com/falcnix/Vulnerable-Cognito-application-) | 2022 | A simple web app that can be used to practice various AWS Cognito attacks |
