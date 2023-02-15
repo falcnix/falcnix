@@ -24,7 +24,7 @@ I am  a curiosity-driven cybersecurity engineer. I like breaking IoT devices and
 | # | Conferece | Talks | Year |
 | ---|---|---|---|
 |1|[null community](null.community) - Bangalore | [Talks](https://null.community/profile/31184-mohammed-saqeeb) | 2022
-|2|[Null IoT Security 101](null.community) - Bangalore | [Training/](https://null.community/event_sessions/3561-iot-pentesting-101) | 2023
+|2|[Null IoT Security 101](null.community) - Bangalore | [Training](https://null.community/event_sessions/3561-iot-pentesting-101) | 2023
 ---
 
 ## Projects 
