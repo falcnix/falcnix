@@ -8,7 +8,6 @@
 +  |__|  (____  /____/\___  >___|  /__/__/\_ \
 +             \/          \/     \/         \/
 ```
-<div align="center">
 
 <!-- quick‑glance badges -->
 <img src="https://img.shields.io/badge/Focus-SCA | FI | Payment‑Security-red?style=flat-square&logo=hackthebox"/>
@@ -64,7 +63,7 @@ Need it done? Ping me, just be sure you’re ready when I answer.
 ---
 
 ## 📊 Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=falcnix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcnix&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
