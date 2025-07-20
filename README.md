@@ -2,36 +2,68 @@
   <img src="https://raw.githubusercontent.com/falcnix/falcnix/main/Images/readme.gif" />
 </p>
 
-# 💫 About Me:
-I am  a curiosity-driven cybersecurity engineer. I like breaking IoT devices and hacking cloud infrastructures. Learning and understanding how we humans function(neuroscience) so I could hack my behavior to optimize my life. I would love to collaborate on any IoT and cloud related projects. Please feel free to reach out in any point of time. 
+<div align="center">
 
+<!-- quick‑glance badges -->
+<img src="https://img.shields.io/badge/Focus-SCA | FI | Payment‑Security-red?style=flat-square&logo=hackthebox"/>
+<img src="https://img.shields.io/badge/Lab-World‑Class Hardware-blueviolet?style=flat-square&logo=raspberrypi"/>
+<img src="https://img.shields.io/badge/Research-Chip Backdoor (Q4 '25)-informational?style=flat-square&logo=semver"/>
+<a href="https://github.com/falcnix"><img src="https://visitor-badge.laobi.icu/badge?page_id=falcnix.readme" alt="visitor badge"/></a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsaqeeb) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@falcnix) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/falcnix) 
+</div>
+
+# 💫 About Me
+I break IoT, short‑circuit bootchains and make POS terminals confess.
+Side channel whispers, fault injection sparks one pulse, one secret.
+COTS payment hardware? Consider it compromised.
+Chip Backdoor. Q4 2025 it’s coming.
+Need it done? Ping me, just be sure you’re ready when I answer.
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdsaqeeb)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@falcnix)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://twitter.com/falcnix)
+
+---
+## 💻 Latest Blog Posts
+- [Threat Evasion for `aws:multifactorAuthPresent` condition using CloudShell](https://falcnix.medium.com/threat-evasion-for-aws-multifactorauthpresent-condition-using-cloudshell-8296b34ecad4)
+- [Can’t Buy a JTAGulator? DIY Build for < $75](https://iotsrg.org/blogs/Build_Your_Own_JTAGulator)
+- [eMMC Chip Removal & Re‑balling Guide](https://iotsrg.org/blogs/emmc-dumping)
+- [UART RX Mitigation Bypass on TP‑Link TL‑WR841N](https://iotsrg.org/blogs/TL-WR841N-uart)
+
+▶ [...view more](https://falcnix.medium.com/) | [IoTSRG Blog ](https://iotsrg.org/blogs)
 
 ---
 
-## 💻 My Latest Blog posts:
-<!-- BLOG-POST-LIST:START -->
-- [Threat Evasion for aws:multifactorAuthPresent condition using Cloudshell](https://falcnix.medium.com/threat-evasion-for-aws-multifactorauthpresent-condition-using-cloudshell-8296b34ecad4)
-<!-- BLOG-POST-LIST:END -->
+## 🎤 Talks & Trainings
+| # | Conference / Event | Location | Session / Role | Format | Year | Link |
+|---|--------------------|----------|----------------|--------|------|------|
+| 1 | SeaSides | Goa, IN | Advanced HW + BLE Exploitation | Workshop | 2025 | [Link](https://seasides.net/mastering-iot-exploitation-advanced-hardware-and-bluetooth-security/) |
+| 2 | BSides Kerala | Kerala, IN | IoT Bug Discovery & Exploitation | Workshop | 2025 | [Link](https://bsideskerala.in/speakers/2025/mohammed-saqeeb-shariff/) |
+| 3 | BSides Dehradun | Dehradun, IN | Keynote Address | Keynote | 2024 | Updating |
+| 4 | c0c0n | Kochi, IN | IoT Security Village – Village Lead | Village | 2023 | Soon |
+| 5 | BSides Bangalore | Bangalore, IN | IoT & HW Security Workshop – Instructor | Workshop | 2023 | Slides |
+| 6 | NULL IoT Security 101 | Bangalore, IN | Instructor | Workshop | 2023 | Slides |
+| 7 | NULL Community | Bangalore, IN | “Hack the Embedded Devices Away!” | Talk | 2022 | Slides |
+| 8 | OWASP SeaSides | Goa, IN | “BLE UAE” | Talk | 2020 | Slides |
 
-▶ [... view more](https://falcnix.medium.com/)
+---
+
+## 🛠 Projects
+| # | Project | Year | Purpose |
+|---|---------|------|---------|
+| 1 | [Vulnerable Cognito Application](https://github.com/falcnix/Vulnerable-Cognito-application-) | 2022 | Practice AWS Cognito attack paths |
+| 2 | [Cognito Creds](https://github.com/falcnix/getCognitoCreds) | 2022 | Pull auth/unauth AWS creds via Cognito |
+| 3 | **something new** | 2025 | SHALL Reveal it Soon |
 
 ---
 
-## Talks and Trainings 
-| # | Conferece | Talks | Year |
-| ---|---|---|---|
-|1|[Null Community](null.community) - Bangalore | [Talks](https://null.community/profile/31184-mohammed-saqeeb) | 2022
-|2|[Null IoT Security 101 Workshop](null.community) - Bangalore | [Training](https://null.community/event_sessions/3561-iot-pentesting-101) | 2023
-|3|[Bsides IoT and Hardware Security Workshop](https://bsidesbangalore.in) - Bangalore | [Training](https://bsidesbangalore.in/schedules) | 2023
----
-
-## Projects 
-|#| Project Name | Release Year | Use of it |
-| ---------|---------|------|-----|
-|1| [Vulnerable Cognito Applicattion](https://github.com/falcnix/Vulnerable-Cognito-application-) | 2022 | A simple web app that can be used to practice various AWS Cognito attacks |
-|2| [Cognito Creds](https://github.com/falcnix/getCognitoCreds) | 2022 | Python based tool to fetch authenticated and unauthenticated AWS creds through cognito |
+## 📊 Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=falcnix&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=falcnix&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
+
+> “No matter how much software security you pile on, a compromised piece of hardware is just ice cream on a broken cone.”
