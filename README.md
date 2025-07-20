@@ -43,9 +43,7 @@ Need it done? Ping me, just be sure you’re ready when I answer.
 | 3 | BSides Dehradun | Dehradun, IN | Keynote Address | Keynote | 2024 | Updating |
 | 4 | c0c0n | Kochi, IN | IoT Security Village – Village Lead | Village | 2023 | Soon |
 | 5 | BSides Bangalore | Bangalore, IN | IoT & HW Security Workshop – Instructor | Workshop | 2023 | Slides |
-| 6 | NULL IoT Security 101 | Bangalore, IN | Instructor | Workshop | 2023 | Slides |
-| 7 | NULL Community | Bangalore, IN | “Hack the Embedded Devices Away!” | Talk | 2022 | Slides |
-| 8 | OWASP SeaSides | Goa, IN | “BLE UAE” | Talk | 2020 | Slides |
+| 6 | NULL Community | Bangalore, IN | “Firmware Backdooring” | Talk | 2022 | Slides |
 
 ---
 
