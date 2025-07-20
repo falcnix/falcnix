@@ -47,9 +47,9 @@ Need it done? Ping me, just be sure you’re ready when I answer.
 | 2 | BSides Kerala | Kerala, IN | IoT Bug Discovery & Exploitation | Workshop | 2025 | [Link](https://bsideskerala.in/speakers/2025/mohammed-saqeeb-shariff/) |
 | 3 | BSides Dehradun | Dehradun, IN | BGA Dechipping Village | Village | 2024 | Updating |
 | 4 | Defcon Delhi | Delhi, IN | Village | Village | 2024 | Updating |
-| 5 | c0c0n | Kochi, IN | IoT Security Village – Village Lead | Village | 2023 | Soon |
-| 6 | BSides Bangalore | Bangalore, IN | IoT & HW Security Workshop – Instructor | Workshop | 2023 | Slides |
-| 7 | NULL Community | Bangalore, IN | “Firmware Backdooring” | Talk | 2022 | Slides |
+| 5 | c0c0n | Kochi, IN | IoT Security Village | Workshop | 2023 | Soon |
+| 6 | BSides Bangalore | Bangalore, IN | IoT & Hardware Security Workshop – Instructor | Workshop | 2023 | Slides |
+| 7 | NULL Community | Bangalore, IN | Firmware Backdooring | Talk | 2022 | Slides |
 
 ---
 
