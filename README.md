@@ -8,7 +8,7 @@
 +  |__|  (____  /____/\___  >___|  /__/__/\_ \
 +             \/          \/     \/         \/
 ```
-
+<div align="center">
 
 <!-- quick‑glance badges -->
 <img src="https://img.shields.io/badge/Focus-SCA | FI | Payment‑Security-red?style=flat-square&logo=hackthebox"/>
